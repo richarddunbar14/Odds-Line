@@ -1,0 +1,4 @@
+# Python caches (same entries as the local project .gitignore)
+__pycache__/
+*.py[cod]
+.pytest_cache/
